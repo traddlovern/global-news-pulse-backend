@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: global-news-pulse-backend
+    runtime: node
+    buildCommand: npm install
+    startCommand: node src/server.js
+    envVars:
+      - key: NO_REDIS
+        value: true
+      - key: PORT
+        value: 3001
