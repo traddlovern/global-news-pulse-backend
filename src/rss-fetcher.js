@@ -12,20 +12,15 @@ import http from 'http'
 
 // Tier 1 RSS feeds
 const FEEDS = [
-  { name: 'Reuters', url: 'https://news.yahoo.com/rss/world' },
-  { name: 'BBC World', url: 'http://feeds.bbci.co.uk/news/world/rss.xml' },
+  { name: 'BBC World', url: 'https://feeds.bbci.co.uk/news/world/rss.xml' },
   { name: 'Al Jazeera', url: 'https://www.aljazeera.com/xml/rss/all.xml' },
   { name: 'France24', url: 'https://www.france24.com/en/rss' },
   { name: 'DW News', url: 'https://rss.dw.com/xml/rss-en-world' },
   { name: 'RFI English', url: 'https://www.rfi.fr/en/rss' },
-  { name: 'VOA News', url: 'https://www.voanews.com/api/zmpqm_pmkq' },
   { name: 'Foreign Policy', url: 'https://foreignpolicy.com/feed/' },
-  { name: 'CNN World', url: 'http://rss.cnn.com/rss/edition_world.rss' },
-  { name: 'CNBC World', url: 'https://www.cnbc.com/id/100727362/device/rss/rss.html' },
-  { name: 'Fox News World', url: 'https://moxie.foxnews.com/google-publisher/world.xml' },
+  { name: 'CNN World', url: 'https://rss.cnn.com/rss/edition_world.rss' },
   { name: 'NBC News', url: 'https://feeds.nbcnews.com/nbcnews/public/world' },
   { name: 'ABC News', url: 'https://abcnews.go.com/abcnews/internationalheadlines' },
-  { name: 'Washington Post', url: 'https://feeds.washingtonpost.com/rss/world' },
   { name: 'NY Times World', url: 'https://rss.nytimes.com/services/xml/rss/nyt/World.xml' },
   { name: 'Guardian World', url: 'https://www.theguardian.com/world/rss' },
   { name: 'NPR World', url: 'https://feeds.npr.org/1004/rss.xml' },
