@@ -30,6 +30,9 @@ import { createCache } from "./cache.js";
 import { enrichPinsWithArticles } from "./gdelt-doc-api.js";
 import { fetchAllFeeds, findArticlesForCountry, getCacheStats } from "./rss-fetcher.js";
 import { fetchAllReliefWeb, findCrisesForCountry } from "./reliefweb.js";
+import { loadHistory, recordSnapshot, getCountryHistory } from "./history-store.js";
+import { computeRiskScore } from "./risk-score.js";
+import { generateCountryBriefing } from "./pdf-briefing.js";
 
 const PORT = parseInt(process.env.PORT || "3001", 10);
 const KEEPALIVE_MS = 30_000;
@@ -89,6 +92,59 @@ async function main() {
     }
 
     res.statusCode = 404;
+    // /risk/:countryCode
+    // /briefing/:countryCode — download PDF risk briefing
+    const briefingMatch = url.pathname.match(/^\/briefing\/([A-Z]{2,3})$/i)
+    if (briefingMatch) {
+      const cc = briefingMatch[1].toUpperCase()
+      const pin = currentPins.find(p => p.countryCode === cc)
+      if (pin) {
+        const hist = getCountryHistory(cc, 168)
+        const riskData = {
+          ...pin.risk,
+          countryCode: cc,
+          locationName: pin.locationName,
+          currentScore: pin.score,
+          dominantCategory: pin.dominantCategory,
+          storyCount: pin.storyCount,
+          totalArticles: pin.totalArticles,
+          topStories: pin.topStories?.slice(0, 5),
+          history: hist?.snapshots?.slice(-96) || [],
+        }
+        generateCountryBriefing(riskData, res)
+        return
+      } else {
+        res.statusCode = 404
+        res.end(JSON.stringify({ error: "country not found" }))
+        return
+      }
+    }
+
+    const riskMatch = url.pathname.match(/^\/risk\/([A-Z]{2,3})$/i)
+    if (riskMatch) {
+      const cc = riskMatch[1].toUpperCase()
+      const pin = currentPins.find(p => p.countryCode === cc)
+      if (pin) {
+        const hist = getCountryHistory(cc, 168)
+        res.end(JSON.stringify({
+          ...pin.risk,
+          countryCode: cc,
+          locationName: pin.locationName,
+          currentScore: pin.score,
+          dominantCategory: pin.dominantCategory,
+          storyCount: pin.storyCount,
+          totalArticles: pin.totalArticles,
+          topStories: pin.topStories?.slice(0, 5),
+          history: hist?.snapshots?.slice(-96) || [],
+        }))
+        return
+      } else {
+        res.statusCode = 404
+        res.end(JSON.stringify({ error: "country not found" }))
+        return
+      }
+    }
+
     res.end(JSON.stringify({ error: "not found" }));
   });
 
@@ -294,17 +350,31 @@ async function main() {
       }
     });
     lastUpdated = new Date().toISOString();
-    currentPins = enrichedPins;
-    await cache.setPins(enrichedPins);
+    // pins stored after risk scoring below
+    // Add risk scores to each pin
+    const pinsWithRisk = enrichedPins.map(pin => ({
+      ...pin,
+      risk: computeRiskScore(pin),
+    }))
+
+    // Record snapshot for history
+    recordSnapshot(pinsWithRisk)
+
+    currentPins = pinsWithRisk
+    await cache.setPins(pinsWithRisk)
+
     console.log(
-      `[server] scored → ${enrichedPins.length} country pins | ` +
-        `top: ${enrichedPins[0]?.locationName} (${enrichedPins[0]?.score})`
+      `[server] scored → ${pinsWithRisk.length} country pins | ` +
+        `top: ${pinsWithRisk[0]?.locationName} (${pinsWithRisk[0]?.score}) risk: ${pinsWithRisk[0]?.risk?.level}`
     );
   });
 
   poller.on("error", (err) => {
     console.error("[server] poller error:", err.message);
   });
+
+  // Load history on startup
+  loadHistory()
 
   // Fetch RSS feeds immediately and then every 15 minutes
   fetchAllFeeds()
