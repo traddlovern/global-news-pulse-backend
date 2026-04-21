@@ -77,12 +77,24 @@ export function computeRiskScore(pin) {
   const corrobScore = hasVerified ? pin.score / 100 : (pin.score / 100) * 0.5
 
   // Composite
-  const raw = (
-    currentScore  * 0.30 +
-    trendScore    * 0.25 +
-    spikeScore    * 0.20 +
-    categoryRisk  * 0.15 +
-    corrobScore   * 0.10
+  // Minimum floor based on category — conflict countries never LOW
+  const categoryFloor = {
+    conflict:  0.35,
+    politics:  0.25,
+    economy:   0.20,
+    climate:   0.15,
+    diplomacy: 0.15,
+    tech:      0.10,
+    general:   0.10,
+  }[pin.dominantCategory] || 0.10
+
+  const raw = Math.max(
+    currentScore  * 0.35 +
+    trendScore    * 0.20 +
+    spikeScore    * 0.15 +
+    categoryRisk  * 0.20 +
+    corrobScore   * 0.10,
+    categoryFloor
   )
 
   const riskScore = Math.round(raw * 100)

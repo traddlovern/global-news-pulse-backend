@@ -47,6 +47,78 @@
         "dominantCategory": "diplomacy",
         "storyCount": 9,
         "totalArticles": 39
+      },
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 18,
+        "totalArticles": 78
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 27,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 14,
+        "totalArticles": 79
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 27,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 14,
+        "totalArticles": 79
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 27,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 14,
+        "totalArticles": 79
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 27,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 14,
+        "totalArticles": 79
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 27,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 14,
+        "totalArticles": 79
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 5,
+        "totalArticles": 22
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 5,
+        "totalArticles": 22
       }
     ]
   },
@@ -116,6 +188,69 @@
         "dominantCategory": "diplomacy",
         "storyCount": 3,
         "totalArticles": 12
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 11,
+        "totalArticles": 36
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 11,
+        "totalArticles": 36
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 11,
+        "totalArticles": 36
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 11,
+        "totalArticles": 36
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 11,
+        "totalArticles": 36
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 27,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 13,
+        "totalArticles": 39
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 27,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 13,
+        "totalArticles": 39
       }
     ]
   },
@@ -185,6 +320,78 @@
         "dominantCategory": "diplomacy",
         "storyCount": 865,
         "totalArticles": 3726
+      },
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 40,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 443,
+        "totalArticles": 1861
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 458,
+        "totalArticles": 1823
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 458,
+        "totalArticles": 1823
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 458,
+        "totalArticles": 1823
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 458,
+        "totalArticles": 1823
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 458,
+        "totalArticles": 1823
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 36,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 450,
+        "totalArticles": 1948
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 36,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 450,
+        "totalArticles": 1948
       }
     ]
   },
@@ -254,6 +461,78 @@
         "dominantCategory": "diplomacy",
         "storyCount": 36,
         "totalArticles": 142
+      },
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 30,
+        "totalArticles": 151
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 29,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 69,
+        "totalArticles": 290
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 29,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 69,
+        "totalArticles": 290
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 29,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 69,
+        "totalArticles": 290
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 29,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 69,
+        "totalArticles": 290
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 29,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 69,
+        "totalArticles": 290
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 59,
+        "totalArticles": 301
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 59,
+        "totalArticles": 301
       }
     ]
   },
@@ -323,6 +602,78 @@
         "dominantCategory": "diplomacy",
         "storyCount": 86,
         "totalArticles": 400
+      },
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 53,
+        "totalArticles": 220
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 33,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 106,
+        "totalArticles": 418
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 33,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 106,
+        "totalArticles": 418
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 33,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 106,
+        "totalArticles": 418
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 33,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 106,
+        "totalArticles": 418
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 33,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 106,
+        "totalArticles": 418
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 29,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 102,
+        "totalArticles": 382
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 29,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 102,
+        "totalArticles": 382
       }
     ]
   },
@@ -443,6 +794,78 @@
         "dominantCategory": "diplomacy",
         "storyCount": 35,
         "totalArticles": 133
+      },
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 28,
+        "totalArticles": 111
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 30,
+        "totalArticles": 102
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 30,
+        "totalArticles": 102
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 30,
+        "totalArticles": 102
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 30,
+        "totalArticles": 102
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 30,
+        "totalArticles": 102
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 26,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 28,
+        "totalArticles": 50
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 26,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 28,
+        "totalArticles": 50
       }
     ]
   },
@@ -512,6 +935,69 @@
         "dominantCategory": "conflict",
         "storyCount": 6,
         "totalArticles": 29
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 19,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 4
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 19,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 4
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 19,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 4
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 19,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 4
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 19,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 4
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 25,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 8,
+        "totalArticles": 42
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 25,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 8,
+        "totalArticles": 42
       }
     ]
   },
@@ -581,6 +1067,78 @@
         "dominantCategory": "politics",
         "storyCount": 31,
         "totalArticles": 106
+      },
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 22,
+        "totalArticles": 75
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 32,
+        "totalArticles": 118
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 32,
+        "totalArticles": 118
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 32,
+        "totalArticles": 118
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 32,
+        "totalArticles": 118
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 32,
+        "totalArticles": 118
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 31,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 24,
+        "totalArticles": 78
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 31,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 24,
+        "totalArticles": 78
       }
     ]
   },
@@ -650,6 +1208,60 @@
         "dominantCategory": "diplomacy",
         "storyCount": 2,
         "totalArticles": 6
+      },
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 26,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 5,
+        "totalArticles": 9
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 10
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 10
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 10
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 10
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 10
       }
     ]
   },
@@ -719,6 +1331,51 @@
         "dominantCategory": "diplomacy",
         "storyCount": 1,
         "totalArticles": 10
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 9,
+        "totalArticles": 38
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 9,
+        "totalArticles": 38
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 9,
+        "totalArticles": 38
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 9,
+        "totalArticles": 38
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 9,
+        "totalArticles": 38
       }
     ]
   },
@@ -788,6 +1445,78 @@
         "dominantCategory": "diplomacy",
         "storyCount": 32,
         "totalArticles": 127
+      },
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 25,
+        "totalArticles": 124
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 35,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 13,
+        "totalArticles": 43
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 35,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 13,
+        "totalArticles": 43
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 35,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 13,
+        "totalArticles": 43
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 35,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 13,
+        "totalArticles": 43
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 35,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 13,
+        "totalArticles": 43
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 31,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 28,
+        "totalArticles": 100
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 31,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 28,
+        "totalArticles": 100
       }
     ]
   },
@@ -857,6 +1586,78 @@
         "dominantCategory": "diplomacy",
         "storyCount": 13,
         "totalArticles": 60
+      },
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 5,
+        "totalArticles": 27
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 9,
+        "totalArticles": 60
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 9,
+        "totalArticles": 60
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 9,
+        "totalArticles": 60
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 9,
+        "totalArticles": 60
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 9,
+        "totalArticles": 60
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 26,
+        "totalArticles": 149
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 26,
+        "totalArticles": 149
       }
     ]
   },
@@ -926,6 +1727,78 @@
         "dominantCategory": "diplomacy",
         "storyCount": 85,
         "totalArticles": 438
+      },
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 32,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 37,
+        "totalArticles": 326
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 113,
+        "totalArticles": 560
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 113,
+        "totalArticles": 560
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 113,
+        "totalArticles": 560
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 113,
+        "totalArticles": 560
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 113,
+        "totalArticles": 560
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 58,
+        "totalArticles": 295
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 58,
+        "totalArticles": 295
       }
     ]
   },
@@ -995,6 +1868,78 @@
         "dominantCategory": "diplomacy",
         "storyCount": 14,
         "totalArticles": 87
+      },
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 31,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 15,
+        "totalArticles": 69
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 19,
+        "totalArticles": 100
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 19,
+        "totalArticles": 100
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 19,
+        "totalArticles": 100
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 19,
+        "totalArticles": 100
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 19,
+        "totalArticles": 100
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 4,
+        "totalArticles": 22
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 4,
+        "totalArticles": 22
       }
     ]
   },
@@ -1064,6 +2009,78 @@
         "dominantCategory": "diplomacy",
         "storyCount": 109,
         "totalArticles": 472
+      },
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 33,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 8,
+        "totalArticles": 60
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 33,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 22,
+        "totalArticles": 107
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 33,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 22,
+        "totalArticles": 107
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 33,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 22,
+        "totalArticles": 107
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 33,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 22,
+        "totalArticles": 107
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 33,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 22,
+        "totalArticles": 107
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 15,
+        "totalArticles": 71
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 15,
+        "totalArticles": 71
       }
     ]
   },
@@ -1133,6 +2150,78 @@
         "dominantCategory": "diplomacy",
         "storyCount": 2,
         "totalArticles": 20
+      },
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 29,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 12
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 15,
+        "totalArticles": 83
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 15,
+        "totalArticles": 83
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 15,
+        "totalArticles": 83
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 15,
+        "totalArticles": 83
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 15,
+        "totalArticles": 83
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 5
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 5
       }
     ]
   },
@@ -1202,6 +2291,78 @@
         "dominantCategory": "diplomacy",
         "storyCount": 25,
         "totalArticles": 155
+      },
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 27,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 1,
+        "totalArticles": 7
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 26,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 9,
+        "totalArticles": 23
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 26,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 9,
+        "totalArticles": 23
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 26,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 9,
+        "totalArticles": 23
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 26,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 9,
+        "totalArticles": 23
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 26,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 9,
+        "totalArticles": 23
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 26,
+        "totalArticles": 165
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 26,
+        "totalArticles": 165
       }
     ]
   },
@@ -1340,6 +2501,78 @@
         "dominantCategory": "diplomacy",
         "storyCount": 22,
         "totalArticles": 84
+      },
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 25,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 6,
+        "totalArticles": 44
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "economy",
+        "storyCount": 2,
+        "totalArticles": 9
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "economy",
+        "storyCount": 2,
+        "totalArticles": 9
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "economy",
+        "storyCount": 2,
+        "totalArticles": 9
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "economy",
+        "storyCount": 2,
+        "totalArticles": 9
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "economy",
+        "storyCount": 2,
+        "totalArticles": 9
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 11,
+        "totalArticles": 34
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 11,
+        "totalArticles": 34
       }
     ]
   },
@@ -1409,6 +2642,69 @@
         "dominantCategory": "diplomacy",
         "storyCount": 59,
         "totalArticles": 222
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 19,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 1
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 19,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 1
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 19,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 1
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 19,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 1
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 19,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 1
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 7,
+        "totalArticles": 28
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 7,
+        "totalArticles": 28
       }
     ]
   },
@@ -1529,6 +2825,78 @@
         "dominantCategory": "diplomacy",
         "storyCount": 79,
         "totalArticles": 397
+      },
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 29,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 55,
+        "totalArticles": 215
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 39,
+        "totalArticles": 191
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 39,
+        "totalArticles": 191
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 39,
+        "totalArticles": 191
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 39,
+        "totalArticles": 191
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 39,
+        "totalArticles": 191
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 34,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 59,
+        "totalArticles": 274
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 34,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 59,
+        "totalArticles": 274
       }
     ]
   },
@@ -1598,6 +2966,78 @@
         "dominantCategory": "diplomacy",
         "storyCount": 197,
         "totalArticles": 880
+      },
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 29,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 19,
+        "totalArticles": 104
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 37,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 112,
+        "totalArticles": 444
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 37,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 112,
+        "totalArticles": 444
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 37,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 112,
+        "totalArticles": 444
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 37,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 112,
+        "totalArticles": 444
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 37,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 112,
+        "totalArticles": 444
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 181,
+        "totalArticles": 860
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 181,
+        "totalArticles": 860
       }
     ]
   },
@@ -1667,6 +3107,78 @@
         "dominantCategory": "diplomacy",
         "storyCount": 4,
         "totalArticles": 14
+      },
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 5,
+        "totalArticles": 42
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 2
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 2
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 2
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 2
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 2
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 24,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 18,
+        "totalArticles": 45
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 24,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 18,
+        "totalArticles": 45
       }
     ]
   },
@@ -1805,6 +3317,60 @@
         "dominantCategory": "conflict",
         "storyCount": 18,
         "totalArticles": 50
+      },
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 27,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 10,
+        "totalArticles": 38
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 25,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 6,
+        "totalArticles": 27
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 25,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 6,
+        "totalArticles": 27
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 25,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 6,
+        "totalArticles": 27
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 25,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 6,
+        "totalArticles": 27
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 25,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 6,
+        "totalArticles": 27
       }
     ]
   },
@@ -1874,6 +3440,24 @@
         "dominantCategory": "diplomacy",
         "storyCount": 1,
         "totalArticles": 2
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 8
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 8
       }
     ]
   },
@@ -1943,6 +3527,51 @@
         "dominantCategory": "diplomacy",
         "storyCount": 3,
         "totalArticles": 6
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 19,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "economy",
+        "storyCount": 1,
+        "totalArticles": 1
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 19,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "economy",
+        "storyCount": 1,
+        "totalArticles": 1
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 19,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "economy",
+        "storyCount": 1,
+        "totalArticles": 1
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 19,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "economy",
+        "storyCount": 1,
+        "totalArticles": 1
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 19,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "economy",
+        "storyCount": 1,
+        "totalArticles": 1
       }
     ]
   },
@@ -2012,6 +3641,60 @@
         "dominantCategory": "diplomacy",
         "storyCount": 21,
         "totalArticles": 82
+      },
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 14
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 37,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 44,
+        "totalArticles": 108
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 37,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 44,
+        "totalArticles": 108
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 37,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 44,
+        "totalArticles": 108
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 37,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 44,
+        "totalArticles": 108
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 37,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 44,
+        "totalArticles": 108
       }
     ]
   },
@@ -2114,6 +3797,69 @@
         "dominantCategory": "diplomacy",
         "storyCount": 7,
         "totalArticles": 51
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 6,
+        "totalArticles": 35
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 6,
+        "totalArticles": 35
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 6,
+        "totalArticles": 35
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 6,
+        "totalArticles": 35
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 6,
+        "totalArticles": 35
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 5
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 5
       }
     ]
   },
@@ -2183,6 +3929,51 @@
         "dominantCategory": "politics",
         "storyCount": 3,
         "totalArticles": 9
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 28,
+        "totalArticles": 76
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 28,
+        "totalArticles": 76
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 28,
+        "totalArticles": 76
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 28,
+        "totalArticles": 76
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 28,
+        "totalArticles": 76
       }
     ]
   },
@@ -2252,6 +4043,51 @@
         "dominantCategory": "diplomacy",
         "storyCount": 14,
         "totalArticles": 42
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 26,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 4,
+        "totalArticles": 26
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 26,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 4,
+        "totalArticles": 26
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 26,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 4,
+        "totalArticles": 26
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 26,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 4,
+        "totalArticles": 26
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 26,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 4,
+        "totalArticles": 26
       }
     ]
   },
@@ -2303,6 +4139,15 @@
         "dominantCategory": "diplomacy",
         "storyCount": 2,
         "totalArticles": 16
+      },
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 27,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 1,
+        "totalArticles": 2
       }
     ]
   },
@@ -2492,6 +4337,78 @@
         "dominantCategory": "economy",
         "storyCount": 2,
         "totalArticles": 5
+      },
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 24,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 16,
+        "totalArticles": 59
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 19,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 2
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 19,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 2
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 19,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 2
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 19,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 2
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 19,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 2
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 6
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 6
       }
     ]
   },
@@ -2543,6 +4460,78 @@
         "dominantCategory": "diplomacy",
         "storyCount": 1,
         "totalArticles": 10
+      },
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 38,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "economy",
+        "storyCount": 2,
+        "totalArticles": 20
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 4,
+        "totalArticles": 8
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 4,
+        "totalArticles": 8
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 4,
+        "totalArticles": 8
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 4,
+        "totalArticles": 8
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 4,
+        "totalArticles": 8
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 9
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 9
       }
     ]
   },
@@ -2714,6 +4703,78 @@
         "dominantCategory": "diplomacy",
         "storyCount": 5,
         "totalArticles": 35
+      },
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 8,
+        "totalArticles": 15
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 29,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 30,
+        "totalArticles": 154
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 29,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 30,
+        "totalArticles": 154
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 29,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 30,
+        "totalArticles": 154
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 29,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 30,
+        "totalArticles": 154
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 29,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 30,
+        "totalArticles": 154
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 27,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 52,
+        "totalArticles": 217
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 27,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 52,
+        "totalArticles": 217
       }
     ]
   },
@@ -2783,6 +4844,69 @@
         "dominantCategory": "diplomacy",
         "storyCount": 4,
         "totalArticles": 10
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 31,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 15,
+        "totalArticles": 76
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 31,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 15,
+        "totalArticles": 76
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 31,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 15,
+        "totalArticles": 76
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 31,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 15,
+        "totalArticles": 76
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 31,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 15,
+        "totalArticles": 76
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 6,
+        "totalArticles": 17
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 6,
+        "totalArticles": 17
       }
     ]
   },
@@ -2833,6 +4957,24 @@
         "isAlert": false,
         "dominantCategory": "diplomacy",
         "storyCount": 1,
+        "totalArticles": 10
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 10
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
         "totalArticles": 10
       }
     ]
@@ -2885,6 +5027,69 @@
         "dominantCategory": "diplomacy",
         "storyCount": 2,
         "totalArticles": 10
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 6,
+        "totalArticles": 28
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 6,
+        "totalArticles": 28
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 6,
+        "totalArticles": 28
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 6,
+        "totalArticles": 28
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 6,
+        "totalArticles": 28
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 13,
+        "totalArticles": 65
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 13,
+        "totalArticles": 65
       }
     ]
   },
@@ -2936,6 +5141,51 @@
         "dominantCategory": "economy",
         "storyCount": 4,
         "totalArticles": 13
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 33,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 1,
+        "totalArticles": 1
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 33,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 1,
+        "totalArticles": 1
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 33,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 1,
+        "totalArticles": 1
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 33,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 1,
+        "totalArticles": 1
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 33,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 1,
+        "totalArticles": 1
       }
     ]
   },
@@ -2987,6 +5237,33 @@
         "dominantCategory": "diplomacy",
         "storyCount": 2,
         "totalArticles": 7
+      },
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 6,
+        "totalArticles": 23
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 7,
+        "totalArticles": 48
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 7,
+        "totalArticles": 48
       }
     ]
   },
@@ -3089,6 +5366,69 @@
         "dominantCategory": "economy",
         "storyCount": 1,
         "totalArticles": 8
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 27,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 6,
+        "totalArticles": 30
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 27,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 6,
+        "totalArticles": 30
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 27,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 6,
+        "totalArticles": 30
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 27,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 6,
+        "totalArticles": 30
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 27,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 6,
+        "totalArticles": 30
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 24,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 4,
+        "totalArticles": 40
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 24,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 4,
+        "totalArticles": 40
       }
     ]
   },
@@ -3227,6 +5567,78 @@
         "dominantCategory": "diplomacy",
         "storyCount": 5,
         "totalArticles": 14
+      },
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 4,
+        "totalArticles": 11
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 26,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 6,
+        "totalArticles": 19
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 26,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 6,
+        "totalArticles": 19
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 26,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 6,
+        "totalArticles": 19
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 26,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 6,
+        "totalArticles": 19
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 26,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 6,
+        "totalArticles": 19
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 5,
+        "totalArticles": 14
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 5,
+        "totalArticles": 14
       }
     ]
   },
@@ -3347,6 +5759,24 @@
         "dominantCategory": "economy",
         "storyCount": 4,
         "totalArticles": 21
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 6,
+        "totalArticles": 46
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 6,
+        "totalArticles": 46
       }
     ]
   },
@@ -3449,6 +5879,24 @@
         "dominantCategory": "diplomacy",
         "storyCount": 2,
         "totalArticles": 7
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 14,
+        "totalArticles": 90
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 14,
+        "totalArticles": 90
       }
     ]
   },
@@ -3500,6 +5948,33 @@
         "dominantCategory": "diplomacy",
         "storyCount": 2,
         "totalArticles": 20
+      },
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 13,
+        "totalArticles": 39
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 24,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "politics",
+        "storyCount": 2,
+        "totalArticles": 3
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 24,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "politics",
+        "storyCount": 2,
+        "totalArticles": 3
       }
     ]
   },
@@ -3524,6 +5999,33 @@
         "dominantCategory": "economy",
         "storyCount": 6,
         "totalArticles": 18
+      },
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 4
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 5,
+        "totalArticles": 30
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 5,
+        "totalArticles": 30
       }
     ]
   },
@@ -3548,6 +6050,24 @@
         "dominantCategory": "diplomacy",
         "storyCount": 8,
         "totalArticles": 38
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 4,
+        "totalArticles": 20
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 4,
+        "totalArticles": 20
       }
     ]
   },
@@ -3572,6 +6092,69 @@
         "dominantCategory": "diplomacy",
         "storyCount": 9,
         "totalArticles": 39
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 29,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 6,
+        "totalArticles": 24
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 29,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 6,
+        "totalArticles": 24
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 29,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 6,
+        "totalArticles": 24
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 29,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 6,
+        "totalArticles": 24
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 29,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 6,
+        "totalArticles": 24
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 15,
+        "totalArticles": 62
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 15,
+        "totalArticles": 62
       }
     ]
   },
@@ -3620,6 +6203,78 @@
         "dominantCategory": "diplomacy",
         "storyCount": 28,
         "totalArticles": 143
+      },
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 8,
+        "totalArticles": 25
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 20,
+        "totalArticles": 106
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 20,
+        "totalArticles": 106
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 20,
+        "totalArticles": 106
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 20,
+        "totalArticles": 106
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 20,
+        "totalArticles": 106
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 18,
+        "totalArticles": 125
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 18,
+        "totalArticles": 125
       }
     ]
   },
@@ -3644,6 +6299,78 @@
         "dominantCategory": "diplomacy",
         "storyCount": 11,
         "totalArticles": 24
+      },
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 12,
+        "totalArticles": 70
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 24,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 22,
+        "totalArticles": 91
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 24,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 22,
+        "totalArticles": 91
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 24,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 22,
+        "totalArticles": 91
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 24,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 22,
+        "totalArticles": 91
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 24,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 22,
+        "totalArticles": 91
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 29,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 16,
+        "totalArticles": 118
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 29,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 16,
+        "totalArticles": 118
       }
     ]
   },
@@ -3692,6 +6419,60 @@
         "dominantCategory": "economy",
         "storyCount": 7,
         "totalArticles": 40
+      },
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 10
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 26,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 12,
+        "totalArticles": 58
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 26,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 12,
+        "totalArticles": 58
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 26,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 12,
+        "totalArticles": 58
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 26,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 12,
+        "totalArticles": 58
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 26,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 12,
+        "totalArticles": 58
       }
     ]
   },
@@ -3716,6 +6497,24 @@
         "dominantCategory": "diplomacy",
         "storyCount": 2,
         "totalArticles": 14
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 12,
+        "totalArticles": 32
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 12,
+        "totalArticles": 32
       }
     ]
   },
@@ -3812,6 +6611,69 @@
         "dominantCategory": "politics",
         "storyCount": 1,
         "totalArticles": 6
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 6,
+        "totalArticles": 20
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 6,
+        "totalArticles": 20
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 6,
+        "totalArticles": 20
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 6,
+        "totalArticles": 20
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 6,
+        "totalArticles": 20
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 6,
+        "totalArticles": 20
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 6,
+        "totalArticles": 20
       }
     ]
   },
@@ -3860,6 +6722,78 @@
         "dominantCategory": "diplomacy",
         "storyCount": 5,
         "totalArticles": 16
+      },
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 27,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 10,
+        "totalArticles": 37
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 17,
+        "totalArticles": 107
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 17,
+        "totalArticles": 107
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 17,
+        "totalArticles": 107
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 17,
+        "totalArticles": 107
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 17,
+        "totalArticles": 107
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 19,
+        "totalArticles": 62
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 19,
+        "totalArticles": 62
       }
     ]
   },
@@ -3884,6 +6818,78 @@
         "dominantCategory": "diplomacy",
         "storyCount": 5,
         "totalArticles": 42
+      },
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 18,
+        "totalArticles": 124
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 10,
+        "totalArticles": 37
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 10,
+        "totalArticles": 37
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 10,
+        "totalArticles": 37
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 10,
+        "totalArticles": 37
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 10,
+        "totalArticles": 37
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 14,
+        "totalArticles": 66
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 14,
+        "totalArticles": 66
       }
     ]
   },
@@ -3908,6 +6914,69 @@
         "dominantCategory": "diplomacy",
         "storyCount": 3,
         "totalArticles": 6
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 12
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 12
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 12
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 12
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 12
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 20,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 2
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 20,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 2
       }
     ]
   },
@@ -3980,6 +7049,69 @@
         "dominantCategory": "diplomacy",
         "storyCount": 3,
         "totalArticles": 20
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 21,
+        "totalArticles": 79
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 21,
+        "totalArticles": 79
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 21,
+        "totalArticles": 79
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 21,
+        "totalArticles": 79
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 21,
+        "totalArticles": 79
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "politics",
+        "storyCount": 2,
+        "totalArticles": 10
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "politics",
+        "storyCount": 2,
+        "totalArticles": 10
       }
     ]
   },
@@ -4076,6 +7208,24 @@
         "dominantCategory": "diplomacy",
         "storyCount": 1,
         "totalArticles": 10
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 24,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "politics",
+        "storyCount": 1,
+        "totalArticles": 5
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 24,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "politics",
+        "storyCount": 1,
+        "totalArticles": 5
       }
     ]
   },
@@ -4124,6 +7274,33 @@
         "dominantCategory": "diplomacy",
         "storyCount": 7,
         "totalArticles": 18
+      },
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 3,
+        "totalArticles": 11
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 16,
+        "totalArticles": 61
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 16,
+        "totalArticles": 61
       }
     ]
   },
@@ -4196,6 +7373,24 @@
         "dominantCategory": "diplomacy",
         "storyCount": 1,
         "totalArticles": 2
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 2
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 2
       }
     ]
   },
@@ -4244,6 +7439,1962 @@
         "dominantCategory": "diplomacy",
         "storyCount": 1,
         "totalArticles": 2
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 24,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 3,
+        "totalArticles": 13
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 24,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 3,
+        "totalArticles": 13
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 24,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 3,
+        "totalArticles": 13
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 24,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 3,
+        "totalArticles": 13
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 24,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 3,
+        "totalArticles": 13
+      }
+    ]
+  },
+  "CF": {
+    "countryCode": "CF",
+    "locationName": "Mboko, Sangha, Congo",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 4,
+        "totalArticles": 26
+      }
+    ]
+  },
+  "FJ": {
+    "countryCode": "FJ",
+    "locationName": "Fiji",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 22,
+        "totalArticles": 107
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 4,
+        "totalArticles": 35
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 4,
+        "totalArticles": 35
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 4,
+        "totalArticles": 35
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 4,
+        "totalArticles": 35
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 4,
+        "totalArticles": 35
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 15,
+        "totalArticles": 78
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 15,
+        "totalArticles": 78
+      }
+    ]
+  },
+  "SW": {
+    "countryCode": "SW",
+    "locationName": "Sweden",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 27,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 2,
+        "totalArticles": 10
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 3,
+        "totalArticles": 27
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 3,
+        "totalArticles": 27
+      }
+    ]
+  },
+  "BY": {
+    "countryCode": "BY",
+    "locationName": "Busuma, Ruyigi, Burundi",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 27,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "economy",
+        "storyCount": 10,
+        "totalArticles": 52
+      }
+    ]
+  },
+  "EZ": {
+    "countryCode": "EZ",
+    "locationName": "Czech Republic",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 26,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 2,
+        "totalArticles": 14
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 7,
+        "totalArticles": 30
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 7,
+        "totalArticles": 30
+      }
+    ]
+  },
+  "RP": {
+    "countryCode": "RP",
+    "locationName": "Manila, Manila, Philippines",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 26,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 1,
+        "totalArticles": 4
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 6,
+        "totalArticles": 38
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 6,
+        "totalArticles": 38
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 6,
+        "totalArticles": 38
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 6,
+        "totalArticles": 38
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 6,
+        "totalArticles": 38
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 3,
+        "totalArticles": 20
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 3,
+        "totalArticles": 20
+      }
+    ]
+  },
+  "GZ": {
+    "countryCode": "GZ",
+    "locationName": "Gaza Strip",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 25,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 10
+      }
+    ]
+  },
+  "KN": {
+    "countryCode": "KN",
+    "locationName": "North Korea",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 24,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 3,
+        "totalArticles": 5
+      }
+    ]
+  },
+  "JM": {
+    "countryCode": "JM",
+    "locationName": "Jamaica",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "economy",
+        "storyCount": 4,
+        "totalArticles": 14
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 20,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 12,
+        "totalArticles": 21
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 20,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 12,
+        "totalArticles": 21
+      }
+    ]
+  },
+  "LY": {
+    "countryCode": "LY",
+    "locationName": "Tripoli, Tarabulus, Libya",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "politics",
+        "storyCount": 1,
+        "totalArticles": 2
+      }
+    ]
+  },
+  "GH": {
+    "countryCode": "GH",
+    "locationName": "Ghana",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "economy",
+        "storyCount": 1,
+        "totalArticles": 10
+      }
+    ]
+  },
+  "AO": {
+    "countryCode": "AO",
+    "locationName": "Angola",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 4,
+        "totalArticles": 18
+      }
+    ]
+  },
+  "LU": {
+    "countryCode": "LU",
+    "locationName": "Luxembourg",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 2
+      }
+    ]
+  },
+  "PE": {
+    "countryCode": "PE",
+    "locationName": "Peru",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 10
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 20,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 1
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 20,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 1
+      }
+    ]
+  },
+  "ZA": {
+    "countryCode": "ZA",
+    "locationName": "Zambia",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 5
+      },
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 10
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 10
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 10
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 10
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 10
+      }
+    ]
+  },
+  "TZ": {
+    "countryCode": "TZ",
+    "locationName": "Tanzania",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 10
+      }
+    ]
+  },
+  "QA": {
+    "countryCode": "QA",
+    "locationName": "Qatar",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T02:58:09.265Z",
+        "score": 19,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 1
+      }
+    ]
+  },
+  "HO": {
+    "countryCode": "HO",
+    "locationName": "Pico Bonito, Atláida, Honduras",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 33,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 5,
+        "totalArticles": 19
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 33,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 5,
+        "totalArticles": 19
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 33,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 5,
+        "totalArticles": 19
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 33,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 5,
+        "totalArticles": 19
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 33,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 5,
+        "totalArticles": 19
+      }
+    ]
+  },
+  "HU": {
+    "countryCode": "HU",
+    "locationName": "Budapest, Budapest, Hungary",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "politics",
+        "storyCount": 13,
+        "totalArticles": 70
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "politics",
+        "storyCount": 13,
+        "totalArticles": 70
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "politics",
+        "storyCount": 13,
+        "totalArticles": 70
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "politics",
+        "storyCount": 13,
+        "totalArticles": 70
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "politics",
+        "storyCount": 13,
+        "totalArticles": 70
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 19,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 4
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 19,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 4
+      }
+    ]
+  },
+  "CT": {
+    "countryCode": "CT",
+    "locationName": "Central African Republic",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 29,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 1,
+        "totalArticles": 10
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 29,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 1,
+        "totalArticles": 10
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 29,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 1,
+        "totalArticles": 10
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 29,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 1,
+        "totalArticles": 10
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 29,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 1,
+        "totalArticles": 10
+      }
+    ]
+  },
+  "AR": {
+    "countryCode": "AR",
+    "locationName": "Argentina",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 6,
+        "totalArticles": 18
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 6,
+        "totalArticles": 18
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 6,
+        "totalArticles": 18
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 6,
+        "totalArticles": 18
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 6,
+        "totalArticles": 18
+      }
+    ]
+  },
+  "AG": {
+    "countryCode": "AG",
+    "locationName": "Algeria",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 1,
+        "totalArticles": 5
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 1,
+        "totalArticles": 5
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 1,
+        "totalArticles": 5
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 1,
+        "totalArticles": 5
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 1,
+        "totalArticles": 5
+      }
+    ]
+  },
+  "EK": {
+    "countryCode": "EK",
+    "locationName": "Malaba, Provincia de Bioko Norte, Equatorial Guinea",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 27,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 1,
+        "totalArticles": 6
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 27,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 1,
+        "totalArticles": 6
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 27,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 1,
+        "totalArticles": 6
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 27,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 1,
+        "totalArticles": 6
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 27,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 1,
+        "totalArticles": 6
+      }
+    ]
+  },
+  "ZI": {
+    "countryCode": "ZI",
+    "locationName": "Kizito, Masvingo, Zimbabwe",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 26,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 21,
+        "totalArticles": 95
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 26,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 21,
+        "totalArticles": 95
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 26,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 21,
+        "totalArticles": 95
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 26,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 21,
+        "totalArticles": 95
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 26,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 21,
+        "totalArticles": 95
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 4,
+        "totalArticles": 40
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 4,
+        "totalArticles": 40
+      }
+    ]
+  },
+  "BF": {
+    "countryCode": "BF",
+    "locationName": "Elbow Cay, Hope Town, Bahamas, The",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 24,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "politics",
+        "storyCount": 2,
+        "totalArticles": 12
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 24,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "politics",
+        "storyCount": 2,
+        "totalArticles": 12
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 24,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "politics",
+        "storyCount": 2,
+        "totalArticles": 12
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 24,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "politics",
+        "storyCount": 2,
+        "totalArticles": 12
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 24,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "politics",
+        "storyCount": 2,
+        "totalArticles": 12
+      }
+    ]
+  },
+  "RW": {
+    "countryCode": "RW",
+    "locationName": "Rwanda",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 10
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 10
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 10
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 10
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 10
+      }
+    ]
+  },
+  "NP": {
+    "countryCode": "NP",
+    "locationName": "Kathmandu, Bagmati, Nepal",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 7,
+        "totalArticles": 37
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 7,
+        "totalArticles": 37
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 7,
+        "totalArticles": 37
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 7,
+        "totalArticles": 37
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 7,
+        "totalArticles": 37
+      }
+    ]
+  },
+  "MT": {
+    "countryCode": "MT",
+    "locationName": "Malta",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 10
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 10
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 10
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 10
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 10
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 11,
+        "totalArticles": 71
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 28,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 11,
+        "totalArticles": 71
+      }
+    ]
+  },
+  "BM": {
+    "countryCode": "BM",
+    "locationName": "Naung, Kachin State, Myanmar",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 15
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 15
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 15
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 15
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 15
+      }
+    ]
+  },
+  "TW": {
+    "countryCode": "TW",
+    "locationName": "Taipei, T'ai-pei, Taiwan",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 3,
+        "totalArticles": 15
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 3,
+        "totalArticles": 15
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 3,
+        "totalArticles": 15
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 3,
+        "totalArticles": 15
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 3,
+        "totalArticles": 15
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 27,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 4,
+        "totalArticles": 21
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 27,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 4,
+        "totalArticles": 21
+      }
+    ]
+  },
+  "CD": {
+    "countryCode": "CD",
+    "locationName": "Chad",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "politics",
+        "storyCount": 1,
+        "totalArticles": 8
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "politics",
+        "storyCount": 1,
+        "totalArticles": 8
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "politics",
+        "storyCount": 1,
+        "totalArticles": 8
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "politics",
+        "storyCount": 1,
+        "totalArticles": 8
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "politics",
+        "storyCount": 1,
+        "totalArticles": 8
+      }
+    ]
+  },
+  "JE": {
+    "countryCode": "JE",
+    "locationName": "Jersey",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 4
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 4
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 4
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 4
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 4
+      }
+    ]
+  },
+  "LA": {
+    "countryCode": "LA",
+    "locationName": "Vientiane, (LA11), Laos",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "politics",
+        "storyCount": 2,
+        "totalArticles": 10
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "politics",
+        "storyCount": 2,
+        "totalArticles": 10
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "politics",
+        "storyCount": 2,
+        "totalArticles": 10
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "politics",
+        "storyCount": 2,
+        "totalArticles": 10
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "politics",
+        "storyCount": 2,
+        "totalArticles": 10
+      }
+    ]
+  },
+  "DJ": {
+    "countryCode": "DJ",
+    "locationName": "Red Sea, Djibouti (general), Djibouti",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T03:12:58.326Z",
+        "score": 19,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 2
+      },
+      {
+        "timestamp": "2026-04-21T03:15:09.989Z",
+        "score": 19,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 2
+      },
+      {
+        "timestamp": "2026-04-21T03:16:10.277Z",
+        "score": 19,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 2
+      },
+      {
+        "timestamp": "2026-04-21T03:17:45.029Z",
+        "score": 19,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 2
+      },
+      {
+        "timestamp": "2026-04-21T03:18:52.545Z",
+        "score": 19,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 2
+      },
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 19,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 4
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 19,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 4
+      }
+    ]
+  },
+  "SU": {
+    "countryCode": "SU",
+    "locationName": "Sudan",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 2,
+        "totalArticles": 20
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 30,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "conflict",
+        "storyCount": 2,
+        "totalArticles": 20
+      }
+    ]
+  },
+  "BT": {
+    "countryCode": "BT",
+    "locationName": "Thimphu, Thimphu, Bhutan",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 26,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 4,
+        "totalArticles": 14
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 26,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 4,
+        "totalArticles": 14
+      }
+    ]
+  },
+  "BE": {
+    "countryCode": "BE",
+    "locationName": "Brussels, Bruxelles-Capitale, Belgium",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 25,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 8,
+        "totalArticles": 51
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 25,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 8,
+        "totalArticles": 51
+      }
+    ]
+  },
+  "PA": {
+    "countryCode": "PA",
+    "locationName": "Asuncion, Villeta, Paraguay",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 25,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "politics",
+        "storyCount": 1,
+        "totalArticles": 2
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 25,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "politics",
+        "storyCount": 1,
+        "totalArticles": 2
+      }
+    ]
+  },
+  "CY": {
+    "countryCode": "CY",
+    "locationName": "Protaras, Famagusta, Cyprus",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 24,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 14,
+        "totalArticles": 57
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 24,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 14,
+        "totalArticles": 57
+      }
+    ]
+  },
+  "BU": {
+    "countryCode": "BU",
+    "locationName": "Sozopol, Burgas, Bulgaria",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 7,
+        "totalArticles": 33
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 7,
+        "totalArticles": 33
+      }
+    ]
+  },
+  "MO": {
+    "countryCode": "MO",
+    "locationName": "Rabat, Rabat-Saléemmour-ZaëMO, Morocco",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 4,
+        "totalArticles": 24
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 4,
+        "totalArticles": 24
+      }
+    ]
+  },
+  "BX": {
+    "countryCode": "BX",
+    "locationName": "Brunei",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "economy",
+        "storyCount": 3,
+        "totalArticles": 25
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 23,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "economy",
+        "storyCount": 3,
+        "totalArticles": 25
+      }
+    ]
+  },
+  "PP": {
+    "countryCode": "PP",
+    "locationName": "Port Moresby, National Capital, Papua New Guinea",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 12,
+        "totalArticles": 50
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 12,
+        "totalArticles": 50
+      }
+    ]
+  },
+  "BK": {
+    "countryCode": "BK",
+    "locationName": "Sarajevo, Federation of Bosnia and Herzegovina, Bosnia-Herzegovina",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 4,
+        "totalArticles": 34
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 4,
+        "totalArticles": 34
+      }
+    ]
+  },
+  "TS": {
+    "countryCode": "TS",
+    "locationName": "Tunis, (TS26), Tunisia",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 10
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 10
+      }
+    ]
+  },
+  "MV": {
+    "countryCode": "MV",
+    "locationName": "Maldives",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "economy",
+        "storyCount": 4,
+        "totalArticles": 31
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "economy",
+        "storyCount": 4,
+        "totalArticles": 31
+      }
+    ]
+  },
+  "EN": {
+    "countryCode": "EN",
+    "locationName": "Estonia",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 10
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 22,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 1,
+        "totalArticles": 10
+      }
+    ]
+  },
+  "BP": {
+    "countryCode": "BP",
+    "locationName": "Solomon Islands",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 4,
+        "totalArticles": 6
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 4,
+        "totalArticles": 6
+      }
+    ]
+  },
+  "AL": {
+    "countryCode": "AL",
+    "locationName": "Tirana, Tirane, Albania",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 4,
+        "totalArticles": 20
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 4,
+        "totalArticles": 20
+      }
+    ]
+  },
+  "SH": {
+    "countryCode": "SH",
+    "locationName": "Saint Helena",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 10
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 10
+      }
+    ]
+  },
+  "VC": {
+    "countryCode": "VC",
+    "locationName": "Saint Vincent And The Grenadines",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 3,
+        "totalArticles": 11
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 3,
+        "totalArticles": 11
+      }
+    ]
+  },
+  "MH": {
+    "countryCode": "MH",
+    "locationName": "Montserrat",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 8
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 21,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 2,
+        "totalArticles": 8
+      }
+    ]
+  },
+  "SL": {
+    "countryCode": "SL",
+    "locationName": "Sierra Leone",
+    "snapshots": [
+      {
+        "timestamp": "2026-04-21T03:20:37.875Z",
+        "score": 19,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 3,
+        "totalArticles": 6
+      },
+      {
+        "timestamp": "2026-04-21T03:21:54.799Z",
+        "score": 19,
+        "spikeScore": 50,
+        "isAlert": false,
+        "dominantCategory": "diplomacy",
+        "storyCount": 3,
+        "totalArticles": 6
       }
     ]
   }

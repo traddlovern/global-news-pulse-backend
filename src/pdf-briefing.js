@@ -17,7 +17,7 @@ const CAT_COLORS = {
   climate: '#2F9E44', tech: '#7048E8', diplomacy: '#C2255C', general: '#868E96',
 }
 
-export function generateCountryBriefing(riskData, res) {
+export function generateCountryBriefing(riskData, res, countryProfile = null) {
   const doc = new PDFDocument({ size: 'A4', margin: 0 })
 
   res.setHeader('Content-Type', 'application/pdf')
@@ -60,8 +60,55 @@ export function generateCountryBriefing(riskData, res) {
   doc.fontSize(7).font('Helvetica').fillColor('rgba(255,255,255,0.7)')
     .text('/ 100', R - 80, 138, { width: 80, align: 'center' })
 
-  // ── SUMMARY ─────────────────────────────────────────────────────────────────
+  // ── COUNTRY PROFILE ────────────────────────────────────────────────────────
   let y = 202
+
+  if (countryProfile) {
+    // Profile bar background
+    doc.rect(0, y, PW, 78).fill('#F8F9FA')
+    doc.moveTo(0, y).lineTo(PW, y).strokeColor('#DEE2E6').lineWidth(0.5).stroke()
+
+    // Stats grid — 4 columns
+    const stats = [
+      { label: 'POPULATION', value: countryProfile.population ? (countryProfile.population / 1e6).toFixed(1) + 'M' : 'N/A' },
+      { label: 'GDP', value: countryProfile.gdp || 'N/A' },
+      { label: 'GDP PER CAPITA', value: countryProfile.gdpPerCapita || 'N/A' },
+      { label: 'CAPITAL', value: countryProfile.capital || 'N/A' },
+      { label: 'CURRENCY', value: countryProfile.currency?.split(' (')[0] || 'N/A' },
+      { label: 'REGION', value: countryProfile.subregion || countryProfile.region || 'N/A' },
+      { label: 'AREA', value: countryProfile.area ? (countryProfile.area / 1000).toFixed(0) + 'K km²' : 'N/A' },
+      { label: 'LANGUAGE', value: countryProfile.languages?.split(',')[0] || 'N/A' },
+    ]
+
+    const colW = UW / 4
+    stats.forEach((stat, i) => {
+      const col = i % 4
+      const row = Math.floor(i / 4)
+      const sx = L + col * colW
+      const sy = y + 10 + row * 32
+
+      doc.fontSize(6.5).font('Helvetica-Bold').fillColor('#868E96')
+        .text(stat.label, sx, sy, { width: colW - 8, characterSpacing: 0.5 })
+      doc.fontSize(9.5).font('Helvetica-Bold').fillColor('#111111')
+        .text(stat.value, sx, sy + 10, { width: colW - 8 })
+    })
+
+    // Head of state
+    if (countryProfile.headOfState) {
+      doc.rect(R - 150, y + 10, 150, 58).fill('#EEEEEE')
+      doc.fontSize(6.5).font('Helvetica-Bold').fillColor('#868E96')
+        .text('HEAD OF STATE', R - 145, y + 14, { characterSpacing: 0.5 })
+      doc.fontSize(9.5).font('Helvetica-Bold').fillColor('#111111')
+        .text(countryProfile.headOfState.name, R - 145, y + 26, { width: 140 })
+      doc.fontSize(8).font('Helvetica').fillColor('#555555')
+        .text(countryProfile.headOfState.title, R - 145, y + 42)
+    }
+
+    doc.moveTo(0, y + 78).lineTo(PW, y + 78).strokeColor('#DEE2E6').lineWidth(0.5).stroke()
+    y += 90
+  }
+
+  // ── SUMMARY ─────────────────────────────────────────────────────────────────
 
   doc.rect(L, y, UW, 56).fill('#F8F9FA')
   doc.rect(L, y, 3, 56).fill(riskColor)
@@ -110,32 +157,44 @@ export function generateCountryBriefing(riskData, res) {
 
   const stories = (riskData.topStories || []).filter(s => s.headline && s.realTitle).slice(0, 5)
   for (const story of stories) {
-    if (y > PH - 60) break
+    if (y > PH - 70) break
     const cc = CAT_COLORS[story.category] || '#868E96'
+    const isVerified = story.sourceTier === 1 || story.sourceTier === 2
+    const rowH = isVerified ? 52 : 44
 
-    doc.rect(L, y, 2, 32).fill(cc)
+    // Left accent bar
+    doc.rect(L, y, 2, rowH).fill(cc)
 
+    // Row 1: category + score
     doc.fontSize(7).font('Helvetica-Bold').fillColor(cc)
-      .text((story.category || '').toUpperCase(), L + 8, y + 1, { characterSpacing: 0.5 })
+      .text((story.category || 'general').toUpperCase(), L + 10, y + 4, { characterSpacing: 0.5 })
+    doc.fontSize(7).font('Helvetica').fillColor('#868E96')
+      .text(`Score: ${story.score}  |  Articles: ${story.numArticles || 0}`, R - 120, y + 4, { width: 120, align: 'right' })
 
-    if (story.sourceTier === 1) {
+    // Row 2: verified badge (if applicable)
+    if (isVerified) {
       doc.fontSize(7).font('Helvetica-Bold').fillColor('#2F9E44')
-        .text('* VERIFIED', L + 8, y + 1, { width: UW - 8, align: 'right' })
+        .text('VERIFIED SOURCE', L + 10, y + 16)
     }
 
-    doc.fontSize(7).font('Helvetica').fillColor('#868E96')
-      .text(`Score: ${story.score}`, L + 8, y + 1, { width: UW - 8, align: 'right' })
+    // Row 3: headline — estimate lines needed
+    const hlY = isVerified ? y + 27 : y + 16
+    const headline = story.headline || ''
+    const charsPerLine = Math.floor((UW - 12) / 5.5)
+    const estimatedLines = Math.ceil(headline.length / charsPerLine)
+    const hlHeight = estimatedLines * 13
 
-    y += 12
-    doc.fontSize(9.5).font('Helvetica-Bold').fillColor('#111111')
-      .text(story.headline || '', L + 8, y, { width: UW - 8 })
-    y += 12
+    doc.fontSize(9).font('Helvetica-Bold').fillColor('#111111')
+      .text(headline, L + 10, hlY, { width: UW - 12 })
 
+    // Row 4: source — positioned after headline
+    const srcY = hlY + hlHeight
     const src = story.sourceName || (story.sourceUrl ? (() => { try { return new URL(story.sourceUrl).hostname.replace('www.','') } catch { return '' } })() : '')
     if (src) {
-      doc.fontSize(7.5).font('Helvetica').fillColor('#0099BB').text(src, L + 8, y)
+      doc.fontSize(7.5).font('Helvetica').fillColor('#0099BB').text(src, L + 10, srcY)
     }
-    y += 14
+
+    y += (isVerified ? 27 : 16) + hlHeight + 16
   }
 
   // ── FOOTER ──────────────────────────────────────────────────────────────────

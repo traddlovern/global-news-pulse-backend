@@ -33,6 +33,7 @@ import { fetchAllReliefWeb, findCrisesForCountry } from "./reliefweb.js";
 import { loadHistory, recordSnapshot, getCountryHistory } from "./history-store.js";
 import { computeRiskScore } from "./risk-score.js";
 import { generateCountryBriefing } from "./pdf-briefing.js";
+import { getFullCountryProfile } from "./country-data.js";
 
 const PORT = parseInt(process.env.PORT || "3001", 10);
 const KEEPALIVE_MS = 30_000;
@@ -55,7 +56,7 @@ async function main() {
   }
 
   // 3. HTTP server
-  const httpServer = createServer((req, res) => {
+  const httpServer = createServer(async (req, res) => {
     const url = new URL(req.url, `http://localhost:${PORT}`);
 
     res.setHeader("Access-Control-Allow-Origin", "*");
@@ -111,7 +112,8 @@ async function main() {
           topStories: pin.topStories?.slice(0, 5),
           history: hist?.snapshots?.slice(-96) || [],
         }
-        generateCountryBriefing(riskData, res)
+        const countryProfile = await getFullCountryProfile(cc)
+        generateCountryBriefing(riskData, res, countryProfile)
         return
       } else {
         res.statusCode = 404
