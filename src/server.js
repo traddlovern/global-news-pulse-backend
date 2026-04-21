@@ -238,6 +238,10 @@ async function main() {
     console.log(`[server] processing ${rawEvents.length} raw events…`);
     const pins = processEvents(rawEvents);
     console.log(`[server] enriching top pins with real article titles…`);
+    // Override category based on RSS headline content
+    const CONFLICT_KEYWORDS = ['war', 'attack', 'strike', 'killed', 'troops', 'missile', 'bomb', 'assault', 'invasion', 'hostage', 'shooting', 'explosion', 'military', 'airstrike', 'ceasefire', 'sanctions', 'blockade']
+    const ECONOMY_KEYWORDS = ['tariff', 'trade', 'gdp', 'recession', 'inflation', 'market', 'economy', 'economic', 'currency', 'bank', 'rate', 'growth']
+    const POLITICS_KEYWORDS = ['election', 'president', 'prime minister', 'parliament', 'coup', 'protest', 'vote', 'government', 'minister', 'congress', 'senate']
     // Add ReliefWeb crisis data to each pin
     const pinsWithCrises = pins.map(pin => {
       const countryName = (pin.locationName || '').split(',').pop().trim()
@@ -334,6 +338,31 @@ async function main() {
       15
     )
 
+
+
+    const pinsWithCategory = enrichedPins.map(pin => {
+      const headlines = (pin.topStories || [])
+        .filter(s => s.realTitle)
+        .map(s => (s.headline || '').toLowerCase())
+        .join(' ')
+
+      if (!headlines) return pin
+
+      const conflictHits = CONFLICT_KEYWORDS.filter(k => headlines.includes(k)).length
+      const economyHits = ECONOMY_KEYWORDS.filter(k => headlines.includes(k)).length
+      const politicsHits = POLITICS_KEYWORDS.filter(k => headlines.includes(k)).length
+
+      let overrideCategory = null
+      if (conflictHits >= 2) overrideCategory = 'conflict'
+      else if (economyHits >= 2) overrideCategory = 'economy'
+      else if (politicsHits >= 2) overrideCategory = 'politics'
+
+      if (overrideCategory && overrideCategory !== pin.dominantCategory) {
+        return { ...pin, dominantCategory: overrideCategory }
+      }
+      return pin
+    })
+
     // Relevance filter: clear isAlert if top headlines don't mention the country
     enrichedPins.forEach(pin => {
       if (!pin.isAlert) return
@@ -354,7 +383,7 @@ async function main() {
     lastUpdated = new Date().toISOString();
     // pins stored after risk scoring below
     // Add risk scores to each pin
-    const pinsWithRisk = enrichedPins.map(pin => ({
+    const pinsWithRisk = pinsWithCategory.map(pin => ({
       ...pin,
       risk: computeRiskScore(pin),
     }))
