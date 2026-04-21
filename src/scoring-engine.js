@@ -110,12 +110,38 @@ const CAMEO_CATEGORIES = {
 
 function inferCategory(eventCode, themes = []) {
   if (!eventCode) return 'general'
-  const prefix = String(eventCode).slice(0, 2)
+  const code = String(eventCode)
+  const prefix2 = code.slice(0, 2)
+  const prefix3 = code.slice(0, 3)
   const themeStr = themes.join(' ').toLowerCase()
-  if (themeStr.includes('climate') || themeStr.includes('environment') || themeStr.includes('drought')) return 'climate'
-  if (themeStr.includes('econ') || themeStr.includes('market') || themeStr.includes('trade') || themeStr.includes('sanction')) return 'economy'
-  if (themeStr.includes('tech') || themeStr.includes('cyber') || themeStr.includes('nuclear')) return 'tech'
-  return CAMEO_CATEGORIES[prefix] || 'general'
+
+  // Theme-based detection first (most reliable)
+  if (themeStr.includes('climate') || themeStr.includes('environment') || themeStr.includes('drought') || themeStr.includes('flood')) return 'climate'
+  if (themeStr.includes('cyber') || themeStr.includes('artificial intelligence') || themeStr.includes('semiconductor')) return 'tech'
+  if (themeStr.includes('nuclear') && !themeStr.includes('nuclear weapon')) return 'tech'
+
+  // Conflict indicators
+  if (['18','19','20','180','181','182','183','185','186','190','191','192','193','194','195','200','201','202','203','204'].includes(prefix2) ||
+      ['180','181','182','183','185','186','190','191','192','193','194','195','200'].includes(prefix3)) return 'conflict'
+
+  // Threat/coercion
+  if (['13','14','15','16','17'].includes(prefix2)) return 'conflict'
+
+  // Economy
+  if (themeStr.includes('econ') || themeStr.includes('market') || themeStr.includes('trade') || 
+      themeStr.includes('sanction') || themeStr.includes('gdp') || themeStr.includes('inflation') ||
+      themeStr.includes('currency') || themeStr.includes('tariff')) return 'economy'
+  if (['06','07','08'].includes(prefix2)) return 'economy'
+
+  // Politics
+  if (['10','11','12'].includes(prefix2)) return 'politics'
+  if (themeStr.includes('election') || themeStr.includes('coup') || themeStr.includes('protest') || 
+      themeStr.includes('parliament') || themeStr.includes('government')) return 'politics'
+
+  // Diplomacy
+  if (['01','02','03','04','05'].includes(prefix2)) return 'diplomacy'
+
+  return CAMEO_CATEGORIES[prefix2] || 'general'
 }
 
 // ─── Score a single event ─────────────────────────────────────────────────────
@@ -238,9 +264,14 @@ export function clusterByCountry(scoredEvents) {
 
     const dominantCategory = Object.entries(cluster.categories).sort((a, b) => b[1] - a[1])[0]?.[0] || 'general'
 
+    // Clean up location name — just use country name
+    const cleanLocation = cluster.locationName
+      ? cluster.locationName.split(',').pop().trim()
+      : cluster.countryCode
+
     pins.push({
       countryCode: cluster.countryCode,
-      locationName: cluster.locationName,
+      locationName: cleanLocation,
       lat: cluster.lat, lng: cluster.lng,
       score: pinScore,
       isAlert,
